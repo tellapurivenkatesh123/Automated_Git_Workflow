@@ -1,4 +1,18 @@
 #!/bin/bash
+cat << 'eof'
+        GGGGGGGGGGGGGGGGGGG     IIIIIIIIIIIIII      TTTTTTTTTTTTTTTT
+        GGGGGGGGGGGGGGGGGGG     IIIIIIIIIIIIII      TTTTTTTTTTTTTTTT
+        GGGG                         IIII                 TTTT
+        GGGG                         IIII                 TTTT
+        GGGG    GGGGGGGGGGGG         IIII                 TTTT
+        GGGG      GGGGGGGGGG         IIII                 TTTT
+        GGGGGGGGGGGGGGGGGGGG         IIII                 TTTT
+        GGGGGGGGGGGGGG  GGGG         IIII                 TTTT      
+                        GGGG    IIIIIIIIIIIIII            TTTT 
+                        GGGG    IIIIIIIIIIIIII            TTTT
+                    
+eof
+
 echo "============================"
 echo "🚀 Automated Git Workflow"
 echo "============================"
