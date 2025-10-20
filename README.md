@@ -27,7 +27,7 @@ It’s ideal for quick development cycles and daily commits without needing to t
 ## 🧩 Example Run
 
 ```bash
-$ ./git_auto.sh
+$ ./git.sh
 ```
 
 ### Output:
@@ -93,12 +93,12 @@ pushing files to remote repo
 
 ### 1️⃣ Make the script executable
 ```bash
-chmod +x git_auto.sh
+chmod +x git.sh
 ```
 
 ### 2️⃣ Run it in your repository
 ```bash
-./git_auto.sh
+./git.sh
 ```
 
 ### 3️⃣ Follow the on-screen instructions
@@ -123,7 +123,7 @@ chmod +x git_auto.sh
 ## 🧾 Example Directory Structure
 
 ```
-git_auto.sh
+git.sh
 README.md
 your_project_files/
 ```
