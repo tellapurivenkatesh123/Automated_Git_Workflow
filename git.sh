@@ -39,7 +39,7 @@ else
 fi
 read -p "enter the commit mesage:"
 time_stamp=$(date +%d%m%Y_%H%M%S)
-commit=$(git commit -m "$REPLY $timep_stamp")
+commit=$(git commit -m "$REPLY $time_stamp")
 echo "pushing files to remote repo"
 push=$(git push -u origin main)
 echo "$push"
